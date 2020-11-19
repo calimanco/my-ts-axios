@@ -1,6 +1,6 @@
 {
   "name": "my-ts-axios",
-  "version": "0.0.0",
+  "version": "0.1.5",
   "description": "",
   "keywords": [],
   "main": "dist/my-ts-axios.umd.js",
